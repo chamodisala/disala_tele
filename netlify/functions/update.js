@@ -1,6 +1,4 @@
 const sendMessage = require("../../sendMessage");
-const messageParts = require("../../messageParts");
-const hashnode = require("../../hashnode");
 
 exports.handler = async (event) => {
   const { message } = JSON.parse(event.body);
