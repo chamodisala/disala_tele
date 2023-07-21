@@ -1,1 +1,0 @@
-curl -F "url=https://disala.netlify.app/.netlify/functions/update" https://api.telegram.org/bot5894914571:AAFF7vPAzFIJrAjWIk2DkkPPVpnrl8B5usM/setWebhook
