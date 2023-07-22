@@ -12,6 +12,7 @@
   },
   "homepage": "https://github.com/chamodisala/disala_tele.git",
   "dependencies": {
-    "axios": "^0.25.0"
+    "axios": "^0.25.0",
+    "openai": "^0.5.2" // This line is added for the OpenAI SDK
   }
 }
